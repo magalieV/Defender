@@ -1,0 +1,17 @@
+4
+res/background/play.jpg
+0
+0
+8
+res/background/tuto.jpg
+480
+0
+8
+res/background/option.jpg
+960
+0
+8
+res/background/credit.jpg
+1440
+0
+8

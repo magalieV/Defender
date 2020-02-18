@@ -1,0 +1,7 @@
+1
+50
+res/text_font.ttf
+LEAVE
+880
+510
+40:3:23

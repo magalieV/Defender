@@ -1,0 +1,10 @@
+res/file/building/text1.txt
+res/file/building/text2.txt
+res/file/building/text3.txt
+res/file/building/text4.txt
+res/file/building/text5.txt
+res/file/building/text6.txt
+res/file/building/text7.txt
+res/file/building/text8.txt
+res/file/building/text9.txt
+res/file/building/text10.txt

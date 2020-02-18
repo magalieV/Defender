@@ -1,0 +1,16 @@
+res/monster_asset/dragon/dragon-face.png
+256
+256
+1792
+res/monster_asset/dragon/dragon-profil.png
+256
+256
+2048
+res/monster_asset/dragon/dragon-profil_left.png
+256
+256
+1280
+res/monster_asset/dragon/dragon-back.png
+256
+256
+1792

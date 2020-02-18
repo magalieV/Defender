@@ -1,0 +1,4 @@
+res/game/fire.png
+128
+200
+2560

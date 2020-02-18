@@ -1,0 +1,8 @@
+res/game/Place.png
+res/button/decor_1.png
+res/button/decor_2.png
+res/button/decor_3.png
+res/button/decor_4.png
+res/button/decor_5.png
+res/button/decor_6.png
+res/button/decor_7.png

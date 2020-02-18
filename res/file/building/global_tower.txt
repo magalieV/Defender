@@ -1,0 +1,10 @@
+res/file/building/tower1.txt
+res/file/building/tower2.txt
+res/file/building/tower3.txt
+res/file/building/tower4.txt
+res/file/building/tower5.txt
+res/file/building/tower6.txt
+res/file/building/tower7.txt
+res/file/building/tower8.txt
+res/file/building/tower9.txt
+res/file/building/tower10.txt

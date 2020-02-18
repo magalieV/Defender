@@ -1,0 +1,7 @@
+2
+res/game/Tow_3_l1.png
+1040
+455
+res/game/34.png
+965
+790

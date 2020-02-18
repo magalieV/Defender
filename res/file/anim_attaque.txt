@@ -1,0 +1,6 @@
+res/game/arrow_right.png
+res/game/arrow_left.png
+res/game/arrow_down.png
+res/game/arrow_up.png
+res/game/fire_ball.png
+res/game/stone.png

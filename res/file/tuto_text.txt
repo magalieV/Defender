@@ -1,0 +1,15 @@
+4
+100
+res/text_font.ttf
+Daenery's
+765
+0
+TUTO
+850
+100
+USE
+2000
+0
+USE
+2000
+0

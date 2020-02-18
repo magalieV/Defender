@@ -1,0 +1,4 @@
+all dragon sont sur du
+0, 0, 256, 256
+
+pour le rectangles

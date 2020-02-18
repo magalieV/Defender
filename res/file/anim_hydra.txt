@@ -1,0 +1,16 @@
+res/monster_asset/hydra/hydra-back.png
+256
+256
+2304
+res/monster_asset/hydra/hydra-profil.png
+256
+256
+2560
+res/monster_asset/hydra/hydra-front.png
+256
+256
+2560
+res/monster_asset/hydra/hydra-died.png
+265
+256
+1325

@@ -1,0 +1,7 @@
+2
+res/game/fire_next.png
+1040
+455
+res/game/37.png
+965
+790

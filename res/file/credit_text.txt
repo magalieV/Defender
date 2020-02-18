@@ -1,0 +1,39 @@
+12
+60
+res/text_font.ttf
+Daenery's
+835
+0
+Credit
+875
+100
+Le Projet est le My_Defender D'EPITECH
+140
+325
+Les etudiants sont
+140
+450
+Magalie Vandenbriele && Remi Peyras
+140
+510
+L'idee du jeu est base sur le theme
+140
+610
+medieval avec des dragons pour
+140
+670
+l'attaque et des chateaux fort
+140
+730
+comme base a defendre
+140
+790
+Sur-Ce Bon Jeu
+140
+925
+USE
+2000
+0
+USE
+2000
+0
